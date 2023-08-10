@@ -1,0 +1,13 @@
+ul,
+ol {
+  list-style: none;
+}
+
+.buttons-list {
+  display: flex;
+  gap: 10px;
+}
+
+.buttons {
+  text-transform: capitalize;
+}
